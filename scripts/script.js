@@ -16,7 +16,7 @@ function toggleMenu() {
         author: "Skyler Saunders", 
         link: "https://skysaunders.github.io/super-adventure-charlie/",
         
-        title2: "Name Game",
+        title2: "animated-sniffle-foxtrot",
         author2: "Skyler Saunders", 
         link2: "https://skysaunders.github.io/animated-sniffle-foxtrot/"
       },
