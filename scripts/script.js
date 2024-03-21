@@ -77,7 +77,7 @@ function toggleMenu() {
       {
         title:"psychic-delta",
         author:"AkashdeepSingh0047",
-        link:"https://github.com/AkashdeepSingh0047/psychic-delta?tab=readme-ov-file",
+        link:"https://akashdeepsingh0047.github.io/psychic-delta/",
         
         title2:"Chrlie-lab-By-Akashdeep",
         author2:"AkashdeepSingh0047", 
