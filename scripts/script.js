@@ -41,11 +41,11 @@ function toggleMenu() {
       {
         title: "Charlie",
         author: "Grant Hartley", 
-        link:"hrantgartley.github.io/didactic-waffle-delta/",
+        link:"https://hrantgartley.github.io/improved-train-charlie/",
         
         title2: "Delta",
         author2: "Grant Hartley",
-        link2: "hrantgartley.github.io/didactic-waffle-delta/"
+        link2: "https://hrantgartley.github.io/didactic-waffle-delta/"
       },
       {
         title:"Delta",
@@ -59,25 +59,25 @@ function toggleMenu() {
       {
         title:"Charlie",
         author:"Brayden Bolton", 
-        link:"bbolton1.github.io/CIS376-Charlie-Brayden/",
+        link:"https://bbolton1.github.io/CIS376-Charlie-Brayden/",
         
         title2:"Delta",
         author2:"Brayden Bolton", 
-        link2:"bbolton1.github.io/delta-lab-brayden/",
+        link2:"https://bbolton1.github.io/delta-lab-brayden/",
       },
       {
         title:"probable-charlie",
         author:"Navraj_Singh",
-        link:"quantumcoder-242.github.io/probable-charlie/",
+        link:"https://quantumcoder-242.github.io/probable-charlie/",
         
         title2:"turbo-delta",
         author2:"Navraj_Singh", 
-        link2:"quantumcoder-242.github.io/turbo-delta/"
+        link2:"https://quantumcoder-242.github.io/turbo-delta/"
       },
       {
-        title:"Akashdeep's Game",
+        title:"psychic-delta",
         author:"AkashdeepSingh0047",
-        link:"psychic-delta https://github.com/AkashdeepSingh0047/psychic-delta?tab=readme-ov-file",
+        link:"https://github.com/AkashdeepSingh0047/psychic-delta?tab=readme-ov-file",
         
         title2:"Chrlie-lab-By-Akashdeep",
         author2:"AkashdeepSingh0047", 
@@ -86,11 +86,11 @@ function toggleMenu() {
       {
         title:"charlie-lab-zrundle",
         author:"Zach Rundle", 
-        link:"zrundle.github.io/charlie-lab-zrundle/",
+        link:"https://zrundle.github.io/charlie-lab-zrundle/",
         
         title2:"zrundle-delta-lab",
         author2:"Zach Rundle", 
-        link2:"zrundle.github.io/zrundle-delta-lab/"
+        link2:"https://zrundle.github.io/zrundle-delta-lab/"
       },
       {
         title:"Delta",
