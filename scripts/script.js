@@ -95,11 +95,11 @@ function toggleMenu() {
       {
         title:"Delta",
         author:"isabellerushing",
-        link:"isabellerushing.github.io/crispy-octo-carnival-delta/",
+        link:"https://isabellerushing.github.io/crispy-octo-carnival-delta/",
         
         title2:"Charlie",
         author2:"isabellerushing", 
-        link2:"isabellerushing.github.io/improved-octo-giggle-charlie/"
+        link2:"https://isabellerushing.github.io/improved-octo-giggle-charlie/"
       },
       {
         title:"Delta Lab Spirit Animal",
