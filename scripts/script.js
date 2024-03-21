@@ -31,7 +31,8 @@ function toggleMenu() {
       },
       {
         title: "Delta",
-        author: "Mohammed Alrasheidi", link:"https://mohammedalrasheidi.github.io/Delta-lab/",
+        author: "Mohammed Alrasheidi", 
+        link:"https://mohammedalrasheidi.github.io/Delta-lab/",
         
         title2: "Charlie",
         author2: "Mohammed Alrasheidi",
@@ -39,32 +40,39 @@ function toggleMenu() {
       },
       {
         title: "Charlie",
-        author: "Grant Hartley", link:"https://github.com/hrantgartley/didactic-waffle-delta",
+        author: "Grant Hartley", 
+        link:"hrantgartley.github.io/didactic-waffle-delta/",
         
         title2: "Delta",
         author2: "Grant Hartley",
-        link2: "https://github.com/hrantgartley/didactic-waffle-delta"
+        link2: "hrantgartley.github.io/didactic-waffle-delta/"
       },
       {
         title:"Delta",
-        author:"Ayman Alluhaybi", link:"https://aalluhaybi1.github.io/DELTA-LAB/",
+        author:"Ayman Alluhaybi", 
+        link:"https://aalluhaybi1.github.io/DELTA-LAB/",
         
         title2:"CHARLIE",
-        author2:"Ayman Alluhaybi", link2:"https://aalluhaybi1.github.io/CHARLIE_LAB/"
+        author2:"Ayman Alluhaybi", 
+        link2:"https://aalluhaybi1.github.io/CHARLIE_LAB/"
       },
       {
         title:"Charlie",
-        author:"Brayden Bolton", link:"https://github.com/bbolton1/CIS376-Charlie-Brayden ",
+        author:"Brayden Bolton", 
+        link:"bbolton1.github.io/CIS376-Charlie-Brayden/",
         
         title2:"Delta",
-        author2:"Brayden Bolton", link2:"https://github.com/bbolton1/delta-lab-brayden",
+        author2:"Brayden Bolton", 
+        link2:"bbolton1.github.io/delta-lab-brayden/",
       },
       {
         title:"probable-charlie",
-        author:"Navraj_Singh", link:"https://github.com/QuantumCoder-242/probable-charlie",
+        author:"Navraj_Singh",
+        link:"quantumcoder-242.github.io/probable-charlie/",
         
         title2:"turbo-delta",
-        author2:"Navraj_Singh", link2:"https://github.com/QuantumCoder-242/turbo-delta"
+        author2:"Navraj_Singh", 
+        link2:"quantumcoder-242.github.io/turbo-delta/"
       },
       {
         title:"Akashdeep's Game",
@@ -72,21 +80,26 @@ function toggleMenu() {
         link:"psychic-delta https://github.com/AkashdeepSingh0047/psychic-delta?tab=readme-ov-file",
         
         title2:"Chrlie-lab-By-Akashdeep",
-        author2:"AkashdeepSingh0047", link2:"https://github.com/AkashdeepSingh0047/Chrlie-lab-By-Akashdeep?tab=readme-ov-file"
+        author2:"AkashdeepSingh0047", 
+        link2:"https://akashdeepsingh0047.github.io/Chrlie-lab-By-Akashdeep/"
       },
       {
         title:"charlie-lab-zrundle",
-        author:"Zach Rundle", link:"https://github.com/zrundle/charlie-lab-zrundle",
+        author:"Zach Rundle", 
+        link:"zrundle.github.io/charlie-lab-zrundle/",
         
         title2:"zrundle-delta-lab",
-        author2:"Zach Rundle", link2:"https://github.com/zrundle/zrundle-delta-lab"
+        author2:"Zach Rundle", 
+        link2:"zrundle.github.io/zrundle-delta-lab/"
       },
       {
         title:"Delta",
-        author:"isabellerushing", link:"isabellerushing.github.io/crispy-octo-carnival-delta/",
+        author:"isabellerushing",
+        link:"isabellerushing.github.io/crispy-octo-carnival-delta/",
         
         title2:"Charlie",
-        author2:"isabellerushing", link2:"isabellerushing.github.io/improved-octo-giggle-charlie/"
+        author2:"isabellerushing", 
+        link2:"isabellerushing.github.io/improved-octo-giggle-charlie/"
       },
       {
         title:"Delta Lab Spirit Animal",
@@ -94,7 +107,8 @@ function toggleMenu() {
         link:"https://marvin-2056.github.io/Delta-CIS-367/",
         
         title2:"echo",
-        author2:"Grant Hartley", link2:"https://github.com/hrantgartley/jubilant-bassoon-echo"
+        author2:"Grant Hartley", 
+        link2:"hrantgartley.github.io/jubilant-bassoon-echo/"
       }
     ];
     // iterate over the JSON array
