@@ -6,7 +6,7 @@ body {
     margin: 0;
     background-color: #030303;
     background-image: url("https://images.saymedia-content.com/.image/t_share/MTkzODAzNTgyODUxMDY1MzI4/cool-css-backgrounds.jpg");
-    background-size:contain
+    background-size:500%;
   }
 
   .container {
@@ -19,7 +19,7 @@ body {
   }
   
   .card {
-    background-color: lightgray;
+    background-color: black;
     padding: 20px;
     border-radius: 10px;
     width: calc(40% - 100px);
