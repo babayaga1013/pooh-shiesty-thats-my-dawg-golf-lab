@@ -6,7 +6,7 @@ body {
     margin: 0;
     background-color: #030303;
     background-image: url("https://images.saymedia-content.com/.image/t_share/MTkzODAzNTgyODUxMDY1MzI4/cool-css-backgrounds.jpg");
-    background-size:500%;
+    background-size: contain;
   }
 
   .container {
