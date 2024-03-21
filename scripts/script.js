@@ -108,7 +108,7 @@ function toggleMenu() {
         
         title2:"echo",
         author2:"Grant Hartley", 
-        link2:"hrantgartley.github.io/jubilant-bassoon-echo/"
+        link2:"https://hrantgartley.github.io/jubilant-bassoon-echo/"
       }
     ];
     // iterate over the JSON array
